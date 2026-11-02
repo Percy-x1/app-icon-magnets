@@ -1,0 +1,8 @@
+numpy
+scipy
+svgpathtools
+shapely
+trimesh
+pillow
+matplotlib
+networkx

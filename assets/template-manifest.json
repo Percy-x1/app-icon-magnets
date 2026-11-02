@@ -1,0 +1,13 @@
+{
+  "purpose": "Neutral reference seed: printing configuration and negative cylinder; no application logo",
+  "printer": "Bambu Lab P1S 0.4 nozzle",
+  "layer_height_mm": 0.2,
+  "wall_loops": 3,
+  "sparse_infill_density": "15%",
+  "reference_material_count": 20,
+  "reference_variant_count": 39,
+  "negative_object_id": "4",
+  "negative_part_subtype": "negative_part",
+  "negative_component_transform": "0.236328121 0 0 0 -0.236328121 -2.89418477e-17 0 9.51971521e-18 -0.0777343738 0 2.60237445e-16 0.88",
+  "sha256": "78ecbff3d4716cab83e07c2bc21c90fe4301f06ddd902dec37a1d07f9bedfdfd"
+}

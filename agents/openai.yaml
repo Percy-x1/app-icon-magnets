@@ -1,0 +1,4 @@
+interface:
+  display_name: "APP 图标冰箱贴"
+  short_description: "用 Fusion 制作齐平分色 APP 冰箱贴，并继承 Bambu 打印配置交付 3MF"
+  default_prompt: "使用 $app-icon-magnets 制作新的 APP 图标冰箱贴，沿用这套尺寸、圆角、分色和打印配置。"
